@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Use-Case-Finder: Generative KI in der ERP-Beratung</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="kopf">
+    <h1>Wo kann generative KI Ihre Beratertätigkeiten unterstützen?</h1>
+    <p class="kopf-text">Wählen Sie Ihre Tätigkeiten und die KI-Aufgaben, die Sie schon nutzen. Der Finder schlägt Anwendungen vor, die Sie noch nicht nutzen, erklärt, wie man sie konkret einsetzt, und belegt sie mit der Quelle.</p>
+  </header>
+
+  <main class="layout">
+    <form id="finder" class="finder" novalidate>
+      <fieldset class="feld">
+        <legend>Ihre Tätigkeiten (keine Auswahl = alle)</legend>
+        <div id="taetigkeiten-optionen" class="chips"></div>
+      </fieldset>
+
+      <fieldset class="feld">
+        <legend>Diese KI-Aufgaben nutzen Sie bereits</legend>
+        <div id="aufgaben-optionen" class="chips"></div>
+      </fieldset>
+
+      <button type="submit" class="absenden">Vorschläge anzeigen</button>
+    </form>
+
+    <section class="ergebnis" aria-labelledby="ergebnis-titel">
+      <h2 id="ergebnis-titel" class="visuell-versteckt">Ergebnis</h2>
+      <p id="status" class="status" role="status" aria-live="polite"></p>
+      <div id="lane" class="lane"></div>
+    </section>
+  </main>
+
+  <footer class="fuss">
+    <p>Anwendung aus dem WI-Projekt WS26-02 an der TH Köln. Grundlage: 96 Quellen und 43 Use Cases. Quellen und Methodik siehe Projektbericht.</p>
+  </footer>
+
+  <script src="config.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

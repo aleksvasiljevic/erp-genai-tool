@@ -1,0 +1,432 @@
+[
+  {
+    "id": "uc-001",
+    "taetigkeit": "folien",
+    "kiAufgabe": "Textgenerierung",
+    "titel": "KI erzeugt kundengerichtete Inhalte wie Präsentationen und Berichte, damit sich Berater auf strategische Arbeit konzentrieren.",
+    "beschreibung": "KI erzeugt kundengerichtete Inhalte wie Präsentationen und Berichte, damit sich Berater auf strategische Arbeit konzentrieren.",
+    "tool": "GPT-Modelle von OpenAI (laut Quelle)",
+    "mehrwert": "Kein Messwert angegeben. Laut Quelle weniger Zeit für manuelle Datenanalyse bei höherer Effizienz.",
+    "quelle": "Pattanayak, S. K. (2023). The Impact of Generative AI on Business Consulting Engagements: A New Paradigm for Client Interaction and Value Creation. International Journal of All Research Education and Scientific Methods (IJARESM), 11(6), 1378–1389."
+  },
+  {
+    "id": "uc-002",
+    "taetigkeit": "doku",
+    "kiAufgabe": "Informationsextraktion",
+    "titel": "Anforderungen aus Dokumenten, E-Mails und Protokollen auslesen",
+    "beschreibung": "Natural Language Processing zieht Anforderungen aus Dokumenten, E-Mails und Meeting-Protokollen und erkennt Widersprüche. Die Quelle nennt hier NLP, nicht ausdrücklich generative KI. Beratern werden außerdem Module und Abläufe vorgeschlagen.",
+    "tool": "NLP (kein Tool genannt)",
+    "mehrwert": "Bessere Konsistenz der Anforderungen (Tab. 3). Für diesen Schritt kein Zahlenwert.",
+    "quelle": "Azab, A. E., Darwish, N. R. & Hefny, H. A. (2024). AI-assisted Framework for Improving Open-Source ERP Implementation Processes. University of Bahrain (Preprint)."
+  },
+  {
+    "id": "uc-003",
+    "taetigkeit": "doku",
+    "kiAufgabe": "Textgenerierung",
+    "titel": "Technische Dokumentation und Schulungsmaterial erzeugen",
+    "beschreibung": "Generative KI erstellt technische Dokumentation sowie Schulungsmaterial und Tutorials bei der Einführung eines ERP-Systems.",
+    "tool": "Generative KI-Werkzeuge, KI-Assistenten (kein Produkt genannt)",
+    "mehrwert": "Entwicklungsaufwand ca. 40 % geringer (generative Werkzeuge, Abschn. 4.B). Schulungsdauer ca. 70 % geringer (KI-Assistenten allgemein, Tab. 1). Vergleich mit historischen Projekten, keine Kontrollgruppe.",
+    "quelle": "Azab, A. E., Darwish, N. R. & Hefny, H. A. (2024). AI-assisted Framework for Improving Open-Source ERP Implementation Processes. University of Bahrain (Preprint)."
+  },
+  {
+    "id": "uc-008",
+    "taetigkeit": "email",
+    "kiAufgabe": "Textgenerierung",
+    "titel": "GenAI entwirft E-Mails und Nachrichten",
+    "beschreibung": "Projektmanager und Berater nutzen GenAI, um E-Mails und Rundnachrichten zu entwerfen und Schreibblockaden zu überwinden. Die Ergebnisse müssen laut Quelle deutlich überarbeitet werden.",
+    "tool": "ChatGPT, Microsoft Copilot (laut Quelle)",
+    "mehrwert": "Kein Messwert angegeben. Nennung durch 2 von 12 Befragten, Ergebnisse brauchen erhebliche Nacharbeit.",
+    "quelle": "Sainio, K., Kettunen, P. & Abrahamsson, P. (2026). Realising the Role of Generative AI Among Project Management Professionals. e-Informatica Software Engineering Journal, 20(1), 260104."
+  },
+  {
+    "id": "uc-009",
+    "taetigkeit": "doku",
+    "kiAufgabe": "Textgenerierung",
+    "titel": "GenAI erstellt Dokumentationsvorlagen und Prozessanleitungen",
+    "beschreibung": "GenAI erzeugt Dokumentenvorlagen, Checklisten und Prozessanweisungen für Projekte. Die Ergebnisse werden menschlich geprüft.",
+    "tool": "ChatGPT, Claude, Microsoft Copilot (laut Quelle)",
+    "mehrwert": "Kein Messwert angegeben. Nennung durch 2 von 12 Befragten (ein Befragter nutzt es besonders umfangreich).",
+    "quelle": "Sainio, K., Kettunen, P. & Abrahamsson, P. (2026). Realising the Role of Generative AI Among Project Management Professionals. e-Informatica Software Engineering Journal, 20(1), 260104."
+  },
+  {
+    "id": "uc-010",
+    "taetigkeit": "workshop",
+    "kiAufgabe": "Klassifikation",
+    "titel": "GenAI sortiert und gruppiert Workshop-Ergebnisse",
+    "beschreibung": "KI-Funktionen in Whiteboard- und Miro-Werkzeugen ordnen Ideen aus Workshops in Gruppen, damit die Auswertung schneller geht.",
+    "tool": "Miro AI (laut Quelle)",
+    "mehrwert": "Laut Quelle deutlich weniger Bearbeitungszeit (früher 30 bis 60 Minuten). Einzelaussage aus Interviews.",
+    "quelle": "Sainio, K., Kettunen, P. & Abrahamsson, P. (2026). Realising the Role of Generative AI Among Project Management Professionals. e-Informatica Software Engineering Journal, 20(1), 260104."
+  },
+  {
+    "id": "uc-011",
+    "taetigkeit": "workshop",
+    "kiAufgabe": "Zusammenfassung",
+    "titel": "GenAI erstellt Maßnahmenlisten aus Meeting-Transkripten",
+    "beschreibung": "Aus Transkripten von Meetings und Workshops erzeugt GenAI Aktionspunkte und Notizen. Laut Quelle ist das Ergebnis teils besser als manuell erstellte Listen, muss aber geprüft werden.",
+    "tool": "Microsoft-Werkzeuge (laut Quelle)",
+    "mehrwert": "Kein Messwert angegeben. Einzelaussage (1 von 12 Befragten).",
+    "quelle": "Sainio, K., Kettunen, P. & Abrahamsson, P. (2026). Realising the Role of Generative AI Among Project Management Professionals. e-Informatica Software Engineering Journal, 20(1), 260104."
+  },
+  {
+    "id": "uc-012",
+    "taetigkeit": "requirements engineering",
+    "kiAufgabe": "Informationsextraktion",
+    "titel": "Vage Tickets mit Code-Wissen anreichern",
+    "beschreibung": "Ein Assistent lädt den Kern eines Code-Repositorys in das Kontextfenster eines Sprachmodells und vergleicht unvollständige Tickets damit. Er deckt Unklarheiten und Randfälle auf und ergänzt Hinweise für Entwickler.",
+    "tool": "Gemini 1.5 Pro mit Context Caching (ERPNext, Odoo u. a.)",
+    "mehrwert": "32,1 % weniger Code-Zeilen durch Rauschfilterung. 79 % geringere Kosten je Folgeabfrage durch Caching (4,25 auf 1,06 US-Dollar).",
+    "quelle": "Surk et al. (2026). Applied Sciences, 16, 2801."
+  },
+  {
+    "id": "uc-013",
+    "taetigkeit": "requirements engineering",
+    "kiAufgabe": "Klassifikation",
+    "titel": "Produktdokumentation gegen regulatorische Anforderungen abgleichen",
+    "beschreibung": "Eine RAG-Pipeline gleicht Produktdokumentation und Jira-Tickets mit regulatorischen Anforderungen ab und liefert je Punkt einen Konformitätsstatus mit zitiertem Nachweis.",
+    "tool": "Gemini 2.5 Pro über SAP AI Core SDK, FAISS, LangChain (SAP Sustainability Control Tower)",
+    "mehrwert": "21 von 30 Audits auf dem Testset korrekt.",
+    "quelle": "Kormann et al. (2026). Exploring GenAI for Regulatory Requirements Traceability: Lessons from Sustainability Software. IEEE RE 2026."
+  },
+  {
+    "id": "uc-014",
+    "taetigkeit": "requirements engineering",
+    "kiAufgabe": "Textgenerierung",
+    "titel": "User Stories, Akzeptanzkriterien und Datenmodelle erzeugen",
+    "beschreibung": "Berater nutzen Prompt-Vorlagen, um aus Prozessbeschreibungen und Notizen User Stories, Akzeptanzkriterien und Datenmodell-Entwürfe für Low-Code-Projekte zu erzeugen.",
+    "tool": "ChatGPT-4o mit Thinkwise-Richtlinien (Low-Code-Berater fizor)",
+    "mehrwert": "Mehr als 50 % positive Nutzungsabsicht (Selbstauskunft). Zeitwerte nicht genannt.",
+    "quelle": "Spijkman et al. (2025). LLM-Assisted Requirements Engineering in Agile MDD: Industry Insights and Validation. IEEE RE."
+  },
+  {
+    "id": "uc-015",
+    "taetigkeit": "workshop",
+    "kiAufgabe": "Informationsextraktion",
+    "titel": "Anforderungen live aus Workshop-Transkripten gewinnen",
+    "beschreibung": "Zwei Agenten-Teams (Extraktor und Prüfer) verarbeiten Transkripte von Anforderungsworkshops und erzeugen ein konsistentes Dokument mit dem Umfang des Minimalprodukts.",
+    "tool": "MARARE-Framework (GPT-4o, Llama 3.1, Mistral-7B)",
+    "mehrwert": "Abdeckung 80,0 ± 11,2 %, semantische Ähnlichkeit 0,86, Halluzinationsrate 14,3 % in 5 Test-Meetings.",
+    "quelle": "Sami et al. (2026). From Business Meetings to Requirement Artifacts: An Agentic AI Approach with MARARE. ACM AGENT 2026."
+  },
+  {
+    "id": "uc-016",
+    "taetigkeit": "requirements engineering",
+    "kiAufgabe": "Textgenerierung",
+    "titel": "Nachfragen zu unvollständigen Spezifikationen erzeugen",
+    "beschreibung": "Ein RAG-System findet unvollständige Anforderungen in Spezifikationen und formuliert Nachfragen, die Berater im Kundengespräch nutzen können.",
+    "tool": "GPT-3.5-Turbo und Mistral-7B mit RAG (PURE-Datensatz)",
+    "mehrwert": "Precision 0,87, Recall 0,79 (ChatGPT). 76 % der Fragen als nützlich bewertet.",
+    "quelle": "Rejithkumar et al. (2024). Probing with Precision: Probing Question Generation for Architectural Information Elicitation. MO2RE-Workshop."
+  },
+  {
+    "id": "uc-017",
+    "taetigkeit": "requirements engineering",
+    "kiAufgabe": "Textgenerierung",
+    "titel": "Unstrukturierte Anforderungen nach ISO 29148 standardisieren",
+    "beschreibung": "Eine dreiphasige Pipeline überführt vage Kundenanforderungen anhand von 42 INCOSE-Regeln in normkonforme Anforderungssätze.",
+    "tool": "ISOprep-Pipeline mit Claude Opus 4.6",
+    "mehrwert": "BERTScore 0,92. Perplexität von 168,5 auf 87,8.",
+    "quelle": "Schiller & Seibel (2026). ISOprep: an LLM-driven pipeline. DESIGN 2026."
+  },
+  {
+    "id": "uc-018",
+    "taetigkeit": "requirements engineering",
+    "kiAufgabe": "Textgenerierung",
+    "titel": "Systemanforderungen aus Stakeholder-Gesprächen ableiten",
+    "beschreibung": "Ein dreistufiges Verfahren filtert anforderungsrelevante Gesprächsbeiträge und erzeugt mit einem Sprachmodell strukturierte Anforderungen.",
+    "tool": "RECOVER (FastText mit SVC, Llama 2 7B)",
+    "mehrwert": "Recall 86,6 % bei der Filterung. BLEU 78,8 % auf Dialogebene.",
+    "quelle": "Voria et al. (2025). RECOVER: Toward Requirements Generation From Stakeholders Conversations. IEEE Transactions on Software Engineering, 51(6)."
+  },
+  {
+    "id": "uc-019",
+    "taetigkeit": "requirements engineering",
+    "kiAufgabe": "Klassifikation",
+    "titel": "Nutzerfeedback nach dem Kano-Modell priorisieren",
+    "beschreibung": "Nutzerfeedback wird gefiltert, mit Ontologiewissen angereichert und in Kano-Kategorien für die Backlog-Priorisierung eingeordnet.",
+    "tool": "KD-BERT mit GPT-4-Turbo im Active-Learning-Verfahren",
+    "mehrwert": "Über 92 % Extraktionsgenauigkeit. Macro-F1 von 0,835 auf 0,954.",
+    "quelle": "Almoqren et al. (2026). KD-BERT: A Knowledge-Driven BERT Framework for Few-Shot Requirement Classification and Kano-Based Prioritization. Electronics (MDPI)."
+  },
+  {
+    "id": "uc-020",
+    "taetigkeit": "requirements engineering",
+    "kiAufgabe": "Informationsextraktion",
+    "titel": "Änderungsanfragen in Change Orders überführen",
+    "beschreibung": "Ein Workflow verarbeitet Logs, Strukturdaten und E-Mails, erkennt betroffene Baugruppen und erzeugt Change-Order-Payloads für PLM- und ERP-Schnittstellen.",
+    "tool": "Generative PLM (GPT-4o, Llama-3-8B), ERP/PLM-REST-APIs",
+    "mehrwert": "96,2 % Schema-Genauigkeit. Durchlaufzeit von mehreren Tagen auf 14,8 Sekunden.",
+    "quelle": "Rahman & Rahman (2026). American Journal of Interdisciplinary Studies."
+  },
+  {
+    "id": "uc-021",
+    "taetigkeit": "requirements engineering",
+    "kiAufgabe": "Zusammenfassung",
+    "titel": "Auditierbare KI-Skills im ERP-Change-Management",
+    "beschreibung": "Versionierte KI-Skills prüfen Traceability, Transportrisiken und Vorfallsursachen im ERP-Umfeld. Jeder Lauf erzeugt einen Nachweis mit SHA-256-Hash.",
+    "tool": "Skill-Framework (CLI, Eclipse/ADT) im SAP/ABAP-Umfeld",
+    "mehrwert": "100 % Auditierbarkeit durch SHA-256. Zeitersparnis nicht genannt.",
+    "quelle": "Banka et al. (2026). Closing the Governance Gap."
+  },
+  {
+    "id": "uc-022",
+    "taetigkeit": "requirements engineering",
+    "kiAufgabe": "Textgenerierung",
+    "titel": "Technische Spezifikationen aus Fachkonzepten in Prompt-Stufen erzeugen",
+    "beschreibung": "Statt eines Freitext-Prompts übersetzt eine sechsstufige Prompt-Kette Fachkonzepte in Schnittstellenspezifikationen. Zwischen den Stufen prüfen Experten die Teilergebnisse.",
+    "tool": "GitHub Copilot (GPT-4.1/5, Claude Sonnet 4), Azure DevOps, Confluence",
+    "mehrwert": "Aufwand von 793 auf 300 Stunden (-62,2 %). Genauigkeit 74,3 %. Zufriedenheit 3,7 von 5.",
+    "quelle": "Dhingra et al. (2026). A Chain-of-Thought Prompt Engineering Framework for Automated Technical Specification Generation in Enterprise Integration. IEEE Access."
+  },
+  {
+    "id": "uc-023",
+    "taetigkeit": "doku",
+    "kiAufgabe": "Dialogassistenz",
+    "titel": "Jira-Tickets und Sprint-Berichte per Chat steuern",
+    "beschreibung": "Ein KI-Chatbot in Microsoft Teams legt Tickets an, aktualisiert sie und erstellt Berichte per Alltagssprache.",
+    "tool": "Microsoft Copilot Studio, Teams, Power Automate, Power BI, Jira API",
+    "mehrwert": "Aufwand je Ticket von 4,2 auf 2,1 Minuten (-50 %). Wochenbericht von 45 auf unter 10 Minuten.",
+    "quelle": "Hassen & Bellaaj (2026). Optimizing Agile Project Management with a Copilot Extension for Jira. Procedia Computer Science."
+  },
+  {
+    "id": "uc-024",
+    "taetigkeit": "requirements engineering",
+    "kiAufgabe": "Informationsextraktion",
+    "titel": "Architekturdiagramme aus Backlog-Tickets rekonstruieren",
+    "beschreibung": "Eine fünfstufige Prompt-Kette liest agile Tickets und erzeugt daraus C4-Architekturdiagramme, um Abweichungen vom Code zu erkennen.",
+    "tool": "GPT-5.1, Azure DevOps REST API, PlantUML",
+    "mehrwert": "Von Stunden auf Minuten (Selbstauskunft). Prozentwerte nicht genannt.",
+    "quelle": "Storck et al. (2026). Recovering Software Architecture Intent from Historical Work Items using Generative AI. ACM AISM 2026."
+  },
+  {
+    "id": "uc-026",
+    "taetigkeit": "requirements engineering",
+    "kiAufgabe": "Textgenerierung",
+    "titel": "Freitext-Anforderungen in UML-Modelle und Code-Gerüste überführen",
+    "beschreibung": "Eine Verifier-Optimizer-Schleife strukturiert Freitext-Anforderungen, leitet UML-Diagramme ab und erzeugt Java-Gerüste.",
+    "tool": "VeriGen (GPT-3.5 API, PlantUML)",
+    "mehrwert": "End-to-End-Genauigkeit 88,0 % gegenüber 46,8 %. Halluzinationen von 99,8 % auf 6,1 %.",
+    "quelle": "Ahmed et al. (2026). VeriGen. IEEE Access."
+  },
+  {
+    "id": "uc-027",
+    "taetigkeit": "testing",
+    "kiAufgabe": "Textgenerierung",
+    "titel": "Selbstheilende Testskripte im ERP-System",
+    "beschreibung": "Ein Modell erzeugt Testskripte aus Quellcode und User Stories und passt sie bei Änderungen der Oberfläche selbst an.",
+    "tool": "AutoScriptAI (GPT-4/Llama-3, Selenium, Jenkins) in einem ERP-System",
+    "mehrwert": "Ersterstellung über 70 % schneller. Wartung von 200 bis 250 auf unter 40 Stunden je Sprint. Erfolgsquote von 70 auf 95 %.",
+    "quelle": "Takkalapally & Domala (2024). AutoScriptAI. American International Journal of Computer Science and Technology."
+  },
+  {
+    "id": "uc-028",
+    "taetigkeit": "requirements engineering",
+    "kiAufgabe": "Textgenerierung",
+    "titel": "Stakeholder-Interviews in Anforderungsdokumente und Epics überführen",
+    "beschreibung": "Sprachmodelle übersetzen Interviews in Produktanforderungen, Jira-Epics und Prompts für Entwickler.",
+    "tool": "Unified AI-SDLC Framework (LLMs, Voice Agents, Jira)",
+    "mehrwert": "15 % Effizienz bei der Roadmap-Planung für ERP-Werkzeuge. Rund 13 Mio. US-Dollar Inventareinsparung. Zeitwerte nicht genannt.",
+    "quelle": "Thakkar (2026). A Unified Framework for Integrating Generative AI Across the Agile SDLC. International Journal of Humanities and Information Technology."
+  },
+  {
+    "id": "uc-029",
+    "taetigkeit": "testing",
+    "kiAufgabe": "Textgenerierung",
+    "titel": "Agentische Freigabeprüfung für ERP-Releases",
+    "beschreibung": "Fünf KI-Agenten erstellen Auswirkungsanalysen und risikobasierte Testpläne. Danach prüfen feste Kontrollen, und eine Person gibt frei.",
+    "tool": "Kubernetes-DevSecOps-Pipeline mit fünf Agenten",
+    "mehrwert": "Fehlererkennung 100 % (18 von 18) gegenüber 94,4 %. Testaufwand -58,3 %. Zusatzzeit 190,8 Sekunden je Release.",
+    "quelle": "Gangaiah (2026). Agentic SDLC Automation for ERP Release Readiness."
+  },
+  {
+    "id": "uc-030",
+    "taetigkeit": "requirements engineering",
+    "kiAufgabe": "Textgenerierung",
+    "titel": "Anforderungsspezifikationen mit Prompt-Mustern erzeugen",
+    "beschreibung": "Persona- und Template-Muster erzeugen aus Ideen strukturierte Anforderungsspezifikationen, ein zweiter Prompt prüft die Vollständigkeit.",
+    "tool": "ChatGPT (GPT-4)",
+    "mehrwert": "62 % der Experten (n=87) halten die Spezifikationen für realistisch.",
+    "quelle": "Mattukat et al. (2026). Can ChatGPT Generate Realistic Synthetic System Requirement Specifications?"
+  },
+  {
+    "id": "uc-031",
+    "taetigkeit": "testing",
+    "kiAufgabe": "Textgenerierung",
+    "titel": "Strukturierte Testfälle mit RAG und LoRA erzeugen",
+    "beschreibung": "Aus Anforderungen und User Stories entstehen JSON-Testfälle, unterstützt durch Beispiele aus Jira und Zephyr.",
+    "tool": "FLAN-T5 mit LoRA, FAISS, Jira/Zephyr",
+    "mehrwert": "BLEU 0,59, ROUGE-L 0,81, Halluzinationsrate 1,7 %, 6,27 Sekunden je Testfall.",
+    "quelle": "Ajmire & Thakare (2026). A Retrieval-Augmented LoRA-Tuned LLM Framework for Structured Software Test Case Generation. Discover Computing."
+  },
+  {
+    "id": "uc-032",
+    "taetigkeit": "testing",
+    "kiAufgabe": "Textgenerierung",
+    "titel": "Akzeptanztests aus Geschäftsregeln erzeugen",
+    "beschreibung": "Ein Sprachmodell filtert testbare Regeln, ein SMT-Solver erzeugt daraus Testdaten und Testfälle.",
+    "tool": "LLM4Fin (Mengzi, LLaMA-2-7B, Z3)",
+    "mehrwert": "Szenario-Abdeckung bis 98,18 %. 7 Sekunden statt über 20 Minuten je Aufgabe.",
+    "quelle": "Xue et al. (2024). LLM4Fin: Fully Automating LLM-Powered Test Case Generation for FinTech Software Acceptance Testing. ACM ISSTA 2024."
+  },
+  {
+    "id": "uc-033",
+    "taetigkeit": "testing",
+    "kiAufgabe": "Textgenerierung",
+    "titel": "Governance für KI-gestützte Qualitätssicherung",
+    "beschreibung": "Ein Vier-Schichten-Modell ordnet Risiken zu, bringt Geschäftsregeln in den Prompt, prüft Ergebnisse und führt Prüfpfade.",
+    "tool": "GAQAGF (Retail, Finanz, Telekommunikation)",
+    "mehrwert": "Abdeckung +39 Prozentpunkte. Aufwand -55 %. Halluzinationen -88 %.",
+    "quelle": "Nair (2026). Generative AI in Enterprise Quality Assurance."
+  },
+  {
+    "id": "uc-034",
+    "taetigkeit": "testing",
+    "kiAufgabe": "Textgenerierung",
+    "titel": "Geschäftsprozess-Tests mit Graphmodell und Sprachmodell",
+    "beschreibung": "Ein Sprachmodell versteht die Anforderungen, ein Graph-Algorithmus steuert die Pfade, Pairwise-Testing reduziert Datenkombinationen.",
+    "tool": "IntelliTest (Gemini 2.5 Flash)",
+    "mehrwert": "Boundary Value Coverage über 88 %, State Transition Coverage über 95 %, 1,41 bis 1,82 US-Dollar je Test-Suite.",
+    "quelle": "Trong et al. (2026). A Business Process-Centric Approach for LLM-Driven Functional Test Generation. IEEE Access."
+  },
+  {
+    "id": "uc-036",
+    "taetigkeit": "testing",
+    "kiAufgabe": "Klassifikation",
+    "titel": "Selbstheilende UI-Tests und visuelle Regressionstests",
+    "beschreibung": "KI-Werkzeuge ersetzen gebrochene UI-Lokatoren automatisch und vergleichen Bildschirmfotos mit Basisbildern.",
+    "tool": "Parasoft Selenic, SmartBear VisualTest",
+    "mehrwert": "Selenic reparierte 5 von 5 Lokatoren. VisualTest erkannte 9 von 9 visuellen Abweichungen.",
+    "quelle": "Garousi et al. (2025). AI-Powered Software Testing Tools: A Systematic Review and Empirical Assessment of Their Features and Limitations."
+  },
+  {
+    "id": "uc-037",
+    "taetigkeit": "schulung",
+    "kiAufgabe": "Dialogassistenz",
+    "titel": "Schulungs- und Fehlerdiagnose-Assistent für ERP-Anwender",
+    "beschreibung": "Ein hybrider Assistent prüft den Systemzustand über Schnittstellen und erklärt Fehler mit Schritt-für-Schritt-Anleitungen.",
+    "tool": "Bot Libre, Java-REST/RFC, SAP S/4HANA",
+    "mehrwert": "Pilot mit 33 Studenten und 3.542 Aufrufen. Prozentwerte nicht genannt.",
+    "quelle": "Gillespie & Sperling (2026). Integration is Key: Designing AI-Based Teaching Assistants for ERP Education. Springer LNBIP."
+  },
+  {
+    "id": "uc-038",
+    "taetigkeit": "schulung",
+    "kiAufgabe": "Dialogassistenz",
+    "titel": "Sprach-Interface für ERP-Datenabfragen",
+    "beschreibung": "Ein Agentic-RAG-System ersetzt Menüwege durch natürliche Sprache und verkürzt den Ablauf von 5 auf 2 Schritte.",
+    "tool": "Chainlit, FastAPI, Odoo 18",
+    "mehrwert": "Passraten 85 bis 95 %. Zufriedenheit 4,33 von 5. SUS 66,67. Abfragen von 20 bis 45 Minuten auf Sekunden.",
+    "quelle": "Pookduang & Chansanam (2026). Bridging ERP Complexity Through Retrieval-Augmented Generation. Computers (MDPI)."
+  },
+  {
+    "id": "uc-039",
+    "taetigkeit": "schulung",
+    "kiAufgabe": "Dialogassistenz",
+    "titel": "RAG-Copilot zur Entlastung bei ERP-Standardaufgaben",
+    "beschreibung": "Ein Copilot verbindet ERP-Daten und Handbücher und führt Anwender Schritt für Schritt durch Aufgaben.",
+    "tool": "Retrieval-Engine mit LLM im ERP",
+    "mehrwert": "Bearbeitungszeit -20 bis -40 %. Fehlerrate -15 bis -30 %.",
+    "quelle": "Samuel (2026). Retrieval-Augmented LLM Copilots for ERP Tasks and Cognitive Load Reduction."
+  },
+  {
+    "id": "uc-040",
+    "taetigkeit": "schulung",
+    "kiAufgabe": "Klassifikation",
+    "titel": "Wissenskarten-gestützter Support-Assistent",
+    "beschreibung": "Anfragen werden Themen zugeordnet, Antworten kommen nur aus passenden Dokumenten, unklare Fälle gehen an Menschen.",
+    "tool": "GigaChat, ChatGPT, Knowledge Map",
+    "mehrwert": "Antwortgenauigkeit von 55 % auf 90 %.",
+    "quelle": "Suleykin & Panfilov (2024). Smart Technical Support System Development Using Knowledge Map-Aided Approach. IEEE."
+  },
+  {
+    "id": "uc-041",
+    "taetigkeit": "schulung",
+    "kiAufgabe": "Dialogassistenz",
+    "titel": "Multi-Agenten-Konversationsschnittstelle für ERP",
+    "beschreibung": "Fachspezifische Agenten übersetzen Sprache in SQL-Abfragen und führen Prüfungen aus.",
+    "tool": "GPT-4, DeepSeek, Qwen, Claude-V3, NL2SQL",
+    "mehrwert": "90,3 % der Prüfkriterien bestanden (28 von 31). Routing 100 %. 6,0 Sekunden je Anfrage.",
+    "quelle": "Assidiqi et al. (2026). Conversational Enterprise Management Through Agentic AI. Applied Artificial Intelligence."
+  },
+  {
+    "id": "uc-042",
+    "taetigkeit": "schulung",
+    "kiAufgabe": "Textgenerierung",
+    "titel": "Rollenwandel von Beratern im SAP-BTP-Umfeld",
+    "beschreibung": "Berater nutzen generative KI für Routineaufgaben und verlagern ihre Arbeit auf Prompt-Gestaltung, Qualitätsprüfung und Enablement.",
+    "tool": "SAP BTP, Joule, GitHub Copilot, ChatGPT",
+    "mehrwert": "Bis zu 55 % schnellere Aufgaben (zitierter Literaturwert). Eigene Zahlen nicht genannt.",
+    "quelle": "Unger et al. (2026). The Impact of Artificial Intelligence on Enterprise Software User Roles. arXiv."
+  },
+  {
+    "id": "uc-043",
+    "taetigkeit": "recherche",
+    "kiAufgabe": "Informationsextraktion",
+    "titel": "Informationen suchen, schreiben und zusammenfassen mit einem KI-Assistenten",
+    "beschreibung": "Ein KI-Assistent sucht Informationen in den Dateien der Nutzer, entwirft Texte und fasst Inhalte zusammen.",
+    "tool": "Microsoft 365 Copilot (laut Quelle)",
+    "mehrwert": "29 % schneller bei Suchen, Schreiben und Zusammenfassen (Laborexperiment mit Microsoft-Mitarbeitern).",
+    "quelle": "Microsoft (2023). Work Trend Index Special Report: What Can Copilot’s Earliest Users Teach Us About Generative AI at Work? Microsoft."
+  },
+  {
+    "id": "uc-044",
+    "taetigkeit": "recherche",
+    "kiAufgabe": "Zusammenfassung",
+    "titel": "Wissen per KI abrufen und die Antworten gezielt prüfen",
+    "beschreibung": "Wissensarbeiter holen Wissen und Marktinformationen per Chatbot und prüfen die Antworten anschließend gegen externe Quellen. Der Aufwand verschiebt sich vom Suchen zum Prüfen.",
+    "tool": "ChatGPT, Microsoft Copilot, Gemini (laut Quelle genutzte Werkzeuge)",
+    "mehrwert": "72 % berichten weniger Aufwand beim Wissensabruf (Selbstauskunft, 319 Wissensarbeiter). Der Prüfaufwand steigt.",
+    "quelle": "Lee, H.-P., Sarkar, A., Tankelevitch, L., Drosos, I., Rintel, S., Banks, R. & Wilson, N. (2025). The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects From a Survey of Knowledge Workers. CHI ’25. https://doi.org/10.1145/3706598.3713778"
+  },
+  {
+    "id": "uc-045",
+    "taetigkeit": "loesungssuche",
+    "kiAufgabe": "Textgenerierung",
+    "titel": "Lösungsideen für eine offene Aufgabe von der KI entwickeln lassen",
+    "beschreibung": "Ein Sprachmodell entwickelt Lösungsvorschläge für eine reale Aufgabe (Ideen für eine Kreislaufwirtschaft), die externe Bewerter nach Machbarkeit, Wert und Neuheit beurteilen.",
+    "tool": "GPT-4 (laut Quelle)",
+    "mehrwert": "KI-Lösungen bei Machbarkeit sowie finanziellem und ökologischem Wert besser bewertet, menschliche Lösungen bei Neuheit (300 Bewerter, 3.900 Bewertungen).",
+    "quelle": "Boussioux, L., Lane, J. N., Zhang, M., Jacimovic, V. & Lakhani, K. R. (2024). The Crowdless Future? Generative AI and Creative Problem-Solving. Organization Science, 35(5), 1589–1607. https://doi.org/10.1287/orsc.2023.18430"
+  },
+  {
+    "id": "uc-046",
+    "taetigkeit": "loesungssuche",
+    "kiAufgabe": "Dialogassistenz",
+    "titel": "KI als Sparringspartner bei Aufgaben außerhalb des eigenen Könnens",
+    "beschreibung": "Berater lösen mit einem KI-Assistenten Aufgaben, die über ihre Fachkenntnis hinausgehen, und nutzen ihn beim Modellieren auch zum Ideenaustausch.",
+    "tool": "Enterprise ChatGPT mit GPT-4 und Advanced Data Analysis (laut Quelle)",
+    "mehrwert": "86 % des Vergleichswerts der Data Scientists, 49 Prozentpunkte mehr als ohne KI, rund 10 % schneller als die Data Scientists (480 Berater, kontrollierter Versuch).",
+    "quelle": "Sack, D., Krayer, L., Wiles, E., Abbadi, M., Awasthi, U., Kennedy, R., Arnolds, C. & Candelon, F. (2024). GenAI Doesn’t Just Increase Productivity. It Expands Capabilities. BCG, 05.09.2024."
+  },
+  {
+    "id": "uc-047",
+    "taetigkeit": "email",
+    "kiAufgabe": "Zusammenfassung",
+    "titel": "E-Mails zusammenfassen und weniger Einzelmails lesen",
+    "beschreibung": "Ein Assistent in Outlook fasst E-Mails zusammen, die Nutzer lesen weniger einzelne Mails. Die Autoren vermuten die Zusammenfassungsfunktion als Ursache.",
+    "tool": "Microsoft 365 Copilot in Outlook (laut Quelle)",
+    "mehrwert": "11 % weniger gelesene Einzelmails und 4 % weniger Zeit mit E-Mails, in einigen Organisationen bis zu 20 bis 25 % (randomisierter Versuch, über 6.000 Beschäftigte).",
+    "quelle": "Jaffe, S., Parikh Shah, N., Butler, J., Farach, A., Cambon, A., Hecht, B., Schwarz, M. & Teevan, J. (Hrsg.) (2024). Generative AI in Real-World Workplaces: The Second Microsoft Report on AI and Productivity Research. Microsoft Research."
+  },
+  {
+    "id": "uc-048",
+    "taetigkeit": "workshop",
+    "kiAufgabe": "Zusammenfassung",
+    "titel": "Verpasstes Meeting mit der KI nachholen",
+    "beschreibung": "Ein Assistent in Teams fasst die Aufzeichnung eines Meetings zusammen, damit verpasste Inhalte schnell nachgeholt werden.",
+    "tool": "Copilot in Microsoft Teams (laut Quelle)",
+    "mehrwert": "Verpasstes Meeting fast 4-mal schneller nachgeholt (Laborexperiment mit Microsoft-Mitarbeitern).",
+    "quelle": "Microsoft (2023). Work Trend Index Special Report: What Can Copilot’s Earliest Users Teach Us About Generative AI at Work? Microsoft."
+  },
+  {
+    "id": "uc-049",
+    "taetigkeit": "konfiguration",
+    "kiAufgabe": "Klassifikation",
+    "titel": "Feldzuordnung bei der Migration nach S/4HANA vorschlagen und abgleichen",
+    "beschreibung": "Generative KI ordnet Felder aus Altsystemen den Feldern in S/4HANA zu und unterstützt den Abgleich, den Berater sonst von Hand prüfen.",
+    "tool": "Nicht angegeben (PDF lag nicht vor, Angaben aus der Quellenbewertung)",
+    "mehrwert": "Prüfaufwand von 42 auf 5 Stunden je 1.000 Felder (laut Quelle simuliert).",
+    "quelle": "Kavuri, S. (2025). Generative AI for Data Mapping: Evaluating AI-Assisted Approaches to Legacy-to-S/4HANA Field Reconciliation. International Journal of Engineering & Extended Technologies Research (IJEETR)."
+  }
+]
